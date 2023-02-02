@@ -91,3 +91,18 @@ img {
     color: #E5E7EB;
     margin-bottom: 15px;
 }
+
+.hero button {  /* styling the button*/
+    background-color: #3882F6;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #E5E7EB;
+    padding: 10px 35px;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.hero button:hover {
+    background-color: #1f3c6b;
+}
