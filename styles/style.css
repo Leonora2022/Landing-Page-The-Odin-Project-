@@ -79,3 +79,15 @@ img {
     max-width: 550px;
     flex: 1;
 }
+
+.hero h2 {      
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-bottom: 5px;
+}
+
+.hero p { 
+    color: #E5E7EB;
+    margin-bottom: 15px;
+}
