@@ -203,3 +203,15 @@ quote-section {
    background-color: #2e5ba4;
    color:darkturquoise;
 }
+
+.action .container {
+    background-color:#3882F6;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 90px;
+    margin-right: 25px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
