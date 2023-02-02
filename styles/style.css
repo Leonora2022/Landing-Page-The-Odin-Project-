@@ -111,3 +111,9 @@ hero .hero-text {
     width: 400px;
     flex: 1;
 }
+.hero .container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+     justify-content: space-between;
+}
