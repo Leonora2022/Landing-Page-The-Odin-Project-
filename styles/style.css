@@ -181,3 +181,9 @@ quote-section {
     height: 350px;
     color: #E5E7EB;
 }
+
+.action h3{
+    font-weight: bold;
+    font-size: 24px;
+    flex: 1;
+}
