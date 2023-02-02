@@ -8,3 +8,11 @@
     box-sizing: border-box;
 }
 
+body{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: darkslategrey;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+}
