@@ -42,3 +42,18 @@ img {
 .header .logo::first-letter {
     color:darkgoldenrod;
 }
+
+.header ul {
+    list-style-type: none; 
+}
+
+.header .nav a{
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.header .nav a:hover {
+    color: darkgoldenrod;
+
+}
