@@ -55,5 +55,11 @@ img {
 
 .header .nav a:hover {
     color: darkgoldenrod;
+}
 
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
 }
