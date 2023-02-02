@@ -106,3 +106,8 @@ img {
 .hero button:hover {
     background-color: #1f3c6b;
 }
+
+hero .hero-text {
+    width: 400px;
+    flex: 1;
+}
