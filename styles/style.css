@@ -161,3 +161,11 @@ quote-section {
     width: 800px;
     /*border: 1px solid black;*/
 }
+
+.quote-section .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
