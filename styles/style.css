@@ -221,3 +221,15 @@ quote-section {
     font-weight: bold;
     height: 100px;
 }
+
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
