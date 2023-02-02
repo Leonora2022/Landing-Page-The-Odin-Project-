@@ -145,3 +145,19 @@ hero .hero-text {
     margin: 0 auto;
     gap: 20px;
 }
+
+quote-section {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    height: 400px;
+}
+#quote {
+    font-weight: lighter;
+    font-style: italic;
+    color: #485c78;
+    font-family: 'Chathura', sans-serif;
+    font-size: 36px;
+    margin-top: 80px;
+    width: 800px;
+    /*border: 1px solid black;*/
+}
