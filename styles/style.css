@@ -27,3 +27,8 @@ img {
     /*border: 1px solid wheat;*/
     padding: 20px; 
 }
+
+.header {
+    background-color: #1F2937;
+    height: 60px;
+}
